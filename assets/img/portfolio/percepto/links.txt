@@ -1,0 +1,13 @@
+docu percepto
+
+https://vimeo.com/715324013
+
+<iframe src="https://player.vimeo.com/video/715324013?h=8cc5ac6720" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/715324013">Percepto</a> from <a href="https://vimeo.com/percepto">Percepto Collective</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+docu yop
+https://vimeo.com/711388026
+
+<iframe src="https://player.vimeo.com/video/711388026?h=ead2edad59" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/711388026">Yesica Duarte</a> from <a href="https://vimeo.com/percepto">Percepto Collective</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+

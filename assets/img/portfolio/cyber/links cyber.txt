@@ -1,0 +1,14 @@
+trailer
+https://vimeo.com/530533910?share=copy
+
+<iframe src="https://player.vimeo.com/video/530533910?h=2a4758c894" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+installation
+https://youtu.be/iyVM5faWaGQ?si=u1EqucUcKbBBrgJf
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iyVM5faWaGQ?si=u1EqucUcKbBBrgJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+360
+https://youtu.be/VDvUIemKfHU?si=WGsFy7_HCTRRFqrU
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VDvUIemKfHU?si=WGsFy7_HCTRRFqrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
